@@ -16,7 +16,7 @@ import (
 const (
 	// TODO Go plugins require plugins and loaders to be built with same library versions.
 	// this is not scalable, introduce flags maybe.
-	caddyVersion        = "v1"
+	caddyVersion        = "v1.0.3"
 	dnsProvidersVersion = "master"
 
 	directivesFile      = "github.com/caddyserver/caddy/caddyhttp/httpserver/plugin.go"
